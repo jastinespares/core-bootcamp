@@ -1,0 +1,12 @@
+{
+    "name": "Tony Tony Chopper",
+    "description": "Your compliment doesn't make me happy you bastard chopper",
+    "symbol": "TTC",
+    "image": "https://imgur.com/a/Smr2vzR",
+    "attributes": [
+        {
+            "trait_type": "Choppa",
+            "value": "one piece"
+        }
+    ]
+}
